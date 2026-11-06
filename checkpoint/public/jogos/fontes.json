@@ -1,0 +1,67 @@
+[
+  {
+    "title": "Minecraft",
+    "file": "minecraft.jpg",
+    "url": "https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/key-art/NewKeyArt_Header.jpg",
+    "source": "https://www.minecraft.net/en-us/article/key-art-update",
+    "credit": "Mojang Studios / Microsoft"
+  },
+  {
+    "title": "Counter-Strike 2",
+    "file": "counter-strike-2.jpg",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/162664aa5da85f418105350c5d67ca565f6c3713/header.jpg?t=1793054556",
+    "source": "https://store.steampowered.com/app/730/",
+    "credit": "Valve"
+  },
+  {
+    "title": "Grand Theft Auto VI",
+    "file": "gta-6.jpg",
+    "url": "https://www.rockstargames.com/VI/_next/static/media/meta.0t8ty~nlmxq2s.jpg?nrpYjD-X9qCVdRWtREDg1",
+    "source": "https://www.rockstargames.com/VI",
+    "credit": "Rockstar Games",
+    "checked": "2026-11-02",
+    "note": "Lançamento previsto para 19/11/2026 conforme o site oficial na consulta. Conferir antes da aula."
+  },
+  {
+    "title": "Age of Empires II: Definitive Edition",
+    "file": "age-of-empires-2.jpg",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/813780/header.jpg?t=1790623375",
+    "source": "https://store.steampowered.com/app/813780/",
+    "credit": "World's Edge, Forgotten Empires, CaptureAge, Tantalus Media, Wicked Witch, Feral Interactive"
+  },
+  {
+    "title": "Hollow Knight",
+    "file": "hollow-knight.jpg",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/367520/3c3489495136b26b34f8a9543c7f5645b99d388c/header.jpg?t=1776125684",
+    "source": "https://store.steampowered.com/app/367520/",
+    "credit": "Team Cherry"
+  },
+  {
+    "title": "Battlefield 4",
+    "file": "battlefield-4.jpg",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1238860/header.jpg?t=1777391884",
+    "source": "https://store.steampowered.com/app/1238860/",
+    "credit": "DICE / Electronic Arts"
+  },
+  {
+    "title": "Roblox",
+    "file": "roblox-avatares.jpg",
+    "url": "https://prod.assets.earlygamecdn.com/images/RobloxActiveCodes_2023-04-03-130932_hzxi.jpg",
+    "source": "https://mobilematters.gg/roblox/roblox-promo-codes",
+    "credit": "Roblox Corporation — arte promocional reproduzida em MobileMatters"
+  },
+  {
+    "title": "League of Legends",
+    "file": "league-of-legends-capa-logo.jpg",
+    "url": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/YABJ7CAXOZDVHAXSDRSQQ7NJR4.jpg",
+    "source": "https://www.infobae.com/kr/2022/04/07/guide-and-tips-to-start-playing-league-of-legends/",
+    "credit": "Riot Games — arte promocional reproduzida em Infobae"
+  },
+  {
+    "title": "Project CARS 2",
+    "file": "project-cars-2.jpg",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/378860/header.jpg?t=1663714740",
+    "source": "https://store.steampowered.com/app/378860/",
+    "credit": "Slightly Mad Studios"
+  }
+]
